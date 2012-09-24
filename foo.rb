@@ -1,3 +1,4 @@
+
 class Room
   class << self
     def names
